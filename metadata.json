@@ -1,0 +1,7 @@
+{
+  "name": "Go Beyond",
+  "description": "Du rêve à la course.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
